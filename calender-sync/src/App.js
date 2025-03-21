@@ -5,13 +5,13 @@ import { getAuth, signInWithPopup, GoogleAuthProvider, signOut } from 'firebase/
 
 // Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyAtV-bQpto6icFc-Ag2QJ5ynMResZIdjmw",
+  apiKey: "",
   authDomain: "calendar-697d4.firebaseapp.com",
-  databaseURL: "https://calendar-697d4-default-rtdb.firebaseio.com",
+  databaseURL: "",
   projectId: "calendar-697d4",
   storageBucket: "calendar-697d4.firebasestorage.app",
-  messagingSenderId: "786013806432",
-  appId: "1:786013806432:web:7a7bf5830922d1d4d88805",
+  messagingSenderId: "",
+  appId: "",
   measurementId: "G-V2CKGQ4MB4"
 
 };
